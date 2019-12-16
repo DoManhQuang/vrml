@@ -1,0 +1,22 @@
+#VRML V2.0 utf8
+
+# Produced by 3D Studio MAX VRML97 exporter, Version 22, Revision 7.57
+# MAX File: FASHION.max, Date: Thu Nov 28 13:25:11 2019
+
+DEF Box650 Transform {
+  translation 26.63 -63.03 936.1
+  children [
+      Transform {
+        translation 0 0.7495 0
+        children [
+          Shape {
+            appearance Appearance {
+              material Material {
+                diffuseColor 0.5294 0.02353 0.02353
+              }
+            }
+            geometry Box { size 225.9 1.499 173.3 }
+          }
+    ] }
+  ]
+}

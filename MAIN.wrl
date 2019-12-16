@@ -1,0 +1,403 @@
+#VRML V2.0 utf8
+#tạo màu nền cho khung cảnh
+Viewpoint {
+
+fieldOfView 0.785398
+
+position 0 5 40
+
+orientation 0 0 1 0
+
+description "Góc nhìn số 1"
+
+jump FALSE
+
+}
+Viewpoint {
+
+fieldOfView 0.785398
+
+position 30 10 30
+
+orientation 0 1 0 0.78
+
+description "Góc nhìn số 3"
+
+jump FALSE
+
+}
+Viewpoint {
+
+fieldOfView 0.785398
+
+position 0 35 0
+
+orientation 1 0 0 -1.57
+
+description "Góc nhìn số 2"
+
+jump FALSE
+
+}
+Viewpoint {
+
+fieldOfView 0.785398
+
+position -35 5 0
+
+orientation 0 1 0 -1.57
+
+description "Góc nhìn số 3"
+
+jump FALSE
+
+}
+
+DirectionalLight {
+
+on TRUE
+
+intensity 1
+
+ambientIntensity 0
+
+color 0.5 0.5 0.5
+
+direction 0 -1 -1
+
+}
+DirectionalLight {
+
+on TRUE
+
+intensity 1
+
+ambientIntensity 0
+
+color 0.5 0.5 0.5
+
+direction 0 -1 1
+
+}
+
+
+
+
+Background {
+skyAngle [ 0.075, 0.1, 0.2, 1.309, 1.5708 ]
+
+skyColor [ 1 1 0, 0.9 0.9 0.5, 0.7 0.7 0.9, 0 0.4 1, 0 0.7 1, 1 1 1 ]
+groundColor	[0.8 1 0.8]
+
+}
+Group {
+	children [
+		DEF	rter 
+		Transform {
+			scale 0.5 0.5 0.5 
+			translation	0 -20 -1150 
+			children [
+		
+				Transform {
+					children [
+						Inline {url "file/TUONG.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG3.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/POSTER.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/POSTER2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/MANHINH.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/KHUNGSAT.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/KHUNGSAT2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/KHUNGSAT3.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/KHUNGSAT4.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/SAN.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DEN1.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DEN2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DEN3.wrl"}
+					]
+				}
+				Transform {
+					translation	0 0 1 
+					children [
+						Inline {url "file/BACGHE.wrl"}
+					]
+				}
+				Transform {
+					translation	0 0 1
+					children [
+						Inline {url "file/BACGHE2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/SANLON.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE1.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE3.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE4.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE5.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/GHE6.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DUONG.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DUONGOTO.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG4.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG5.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG6.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG7.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/TUONG8.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/BANG.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/BAC.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/CAY.wrl"}
+					]
+				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM1.wrl"}
+#					]
+#				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM2.wrl"}
+#					]
+#				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM3.wrl"}
+#					]
+#				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM4.wrl"}
+#					]
+#				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM5.wrl"}
+#					]
+#				}
+#				Transform {
+#					children [
+#						Inline {url "file/NGUOIXEM6.wrl"}
+#					]
+#				}
+				Transform {
+					children [
+						Inline {url "file/DENDUONG.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DENDUONG2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIMAU.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/OTO3.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/OTO4.wrl"}
+					]
+				}
+			
+				Transform {
+					children [
+						Inline {url "file/CUA.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/DENDUOI2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/VE.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIMUA.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIMAU.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/THAMDO.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/BACDO2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIXEM7.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIXEM9.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/NGUOIBENNGOAI.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/CONGTAC.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/PHONGVIEN1.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/PHONGVIEN2.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/PHONGVIEN3.wrl"}
+					]
+				}
+				Transform {
+					children [
+						Inline {url "file/PHONGVIEN4.wrl"}
+					]
+				}
+
+			]
+		}
+	]
+}

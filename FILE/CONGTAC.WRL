@@ -1,0 +1,65 @@
+#VRML V2.0 utf8
+
+# Produced by 3D Studio MAX VRML97 exporter, Version 22, Revision 7.57
+# MAX File: FASHION.max, Date: Thu Nov 28 14:01:02 2019
+
+DEF Group17120 Transform {
+  translation -331.7 24.19 755.9
+  rotation 0 -1 0 -1.571
+  scale 0.232 0.232 0.232
+  children [
+  DEF Group17120-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Line033 Transform {
+      translation -21.26 -0.3376 13.8
+      rotation 0 -1 0 -0.1455
+      children [
+      DEF Line033-ROT-INTERP OrientationInterpolator {
+        key [0, 0.01293, 0.02586, ]
+        keyValue [0 -1 0 -0.1455, 0 1 0 -0.108, 0 1 0 -0.1549, 
+          ] },
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.5294 0.02353 0.02353
+            }
+          }
+          geometry DEF Line033-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Line033-COORD Coordinate { point [
+              -46.38 16.16 8.51, -46.38 16.16 -8.51, -46.38 -16.16 -8.51, 
+              -46.38 -16.16 8.51, 46.38 16.16 8.51, 46.38 16.16 -8.51, 
+              46.38 -16.16 -8.51, 46.38 -16.16 8.51]
+            }
+            coordIndex [
+              0, 4, 5, -1, 5, 1, 0, -1, 1, 5, 6, -1, 6, 2, 1, -1, 
+              2, 6, 7, -1, 7, 3, 2, -1, 3, 7, 4, -1, 4, 0, 3, -1, 
+              1, 2, 0, -1, 2, 3, 0, -1, 6, 5, 4, -1, 7, 6, 4, -1]
+            }
+        }
+    DEF TouchSensor002-SENSOR TouchSensor { enabled TRUE }
+      ]
+    },
+    DEF Box657 Transform {
+      translation -20.64 0 -20.95
+      rotation -1 0 0 -1.571
+      children [
+          Transform {
+            translation 0 18.41 0
+            children [
+              Shape {
+                appearance Appearance {
+                  material Material {
+                    diffuseColor 1 1 1
+                  }
+                }
+                geometry Box { size 126.3 36.82 59.96 }
+              }
+        ] }
+      ]
+    }
+  ]
+ROUTE Group17120-TIMER.fraction_changed TO Line033-ROT-INTERP.set_fraction
+ROUTE Line033-ROT-INTERP.value_changed TO Line033.set_rotation
+}
+ROUTE TouchSensor002-SENSOR.touchTime TO Group17120-TIMER.startTime

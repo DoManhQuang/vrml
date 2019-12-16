@@ -1,0 +1,509 @@
+#VRML V2.0 utf8
+
+# Produced by 3D Studio MAX VRML97 exporter, Version 22, Revision 7.57
+# MAX File: FASHION.max, Date: Sun Nov 10 22:59:20 2019
+
+DEF Group176 Transform {
+  translation 134.9 -25.11 222.1
+  rotation 0 0 -1 -0.9861
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group176-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Object059 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object059-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object059-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    },
+    DEF Box572 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box572-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box572-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group177 Transform {
+  translation 134.9 -25.11 345.4
+  rotation 0 0 -1 -0.9861
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group177-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box573 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box573-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box573-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object060 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object060-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object060-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group178 Transform {
+  translation 134.9 -25.11 468.7
+  rotation 0 0 -1 -0.9861
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group178-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box574 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box574-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box574-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object061 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object061-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object061-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group179 Transform {
+  translation 134.9 -25.11 591.9
+  rotation 0 0 -1 -0.9861
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group179-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box575 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box575-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box575-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object062 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object062-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object062-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group180 Transform {
+  translation -95.28 -25.11 591.9
+  rotation -0.4733 -0.8809 0 -3.142
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group180-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box576 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box576-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box576-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object063 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object063-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object063-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group181 Transform {
+  translation -95.28 -25.11 468.7
+  rotation -0.4733 -0.8809 0 -3.142
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group181-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box577 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box577-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box577-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object064 Transform {
+      translation 0 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object064-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object064-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group182 Transform {
+  translation -95.28 -25.11 345.4
+  rotation -0.4733 -0.8809 0 -3.142
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group182-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box578 Transform {
+      translation 6.104e-05 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box578-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box578-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object065 Transform {
+      translation 6.104e-05 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object065-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object065-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}
+DEF Group183 Transform {
+  translation -95.28 -25.11 222.1
+  rotation -0.4733 -0.8809 0 -3.142
+  scale 0.06499 0.06499 0.06499
+  children [
+  DEF Group183-TIMER TimeSensor { loop TRUE cycleInterval 7.733 },
+    DEF Box579 Transform {
+      translation 6.104e-05 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 0.451 0.451 0.451
+            }
+          }
+          geometry DEF Box579-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Box579-COORD Coordinate { point [
+              -116.4 0 72.66, 116.4 0 72.66, -116.4 0 -72.66, 116.4 0 -72.66, 
+              -116.4 26.27 72.66, 116.4 26.27 72.66, -116.4 26.27 -72.66, 
+              116.4 26.27 -72.66, -88.23 91.21 55.07, 88.23 91.21 55.07, 
+              88.23 91.21 -55.07, -88.23 91.21 -55.07]
+            }
+            coordIndex [
+              8, 9, 10, -1, 10, 11, 8, -1, 0, 1, 5, -1, 5, 4, 0, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 4, 5, 9, -1, 9, 8, 4, -1, 
+              5, 7, 10, -1, 10, 9, 5, -1, 7, 6, 11, -1, 11, 10, 7, -1, 
+              6, 4, 8, -1, 8, 11, 6, -1]
+            }
+        }
+      ]
+    },
+    DEF Object066 Transform {
+      translation 6.104e-05 45.11 0
+      rotation 0 0 1 -3.142
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+              diffuseColor 1 1 1
+            }
+          }
+          geometry DEF Object066-FACES IndexedFaceSet {
+            ccw TRUE
+            solid TRUE
+            coord DEF Object066-COORD Coordinate { point [
+              -116.4 -1 72.66, 116.4 -1 72.66, -116.4 -1 -72.66, 
+              116.4 -1 -72.66, -116.4 0 72.66, 116.4 0 72.66, 
+              -116.4 0 -72.66, 116.4 0 -72.66]
+            }
+            coordIndex [
+              0, 2, 3, -1, 3, 1, 0, -1, 7, 6, 4, -1, 4, 5, 7, -1, 
+              2, 0, 4, -1, 4, 6, 2, -1, 3, 2, 6, -1, 6, 7, 3, -1, 
+              1, 3, 7, -1, 7, 5, 1, -1, 0, 1, 5, -1, 5, 4, 0, -1]
+            }
+        }
+      ]
+    }
+  ]
+}

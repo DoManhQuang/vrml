@@ -1,0 +1,39 @@
+#VRML V2.0 utf8
+
+
+DEF Box004 Transform {
+  translation 0.857 -36.26 -32.07
+  scale 1.716 1.45 0.7869
+  children [
+	  DEF cambien TouchSensor	{
+					enabled FALSE 
+				}
+				DEF TS1 TouchSensor {}
+    Shape {
+      appearance Appearance {
+		  texture DEF phim MovieTexture {
+                			url "IMG/VIDEO.mp4"
+                			loop FALSE
+            			}
+        material Material {
+          diffuseColor 1 1 1
+        }
+      }
+      geometry DEF Box004-FACES IndexedFaceSet {
+        ccw TRUE
+        solid TRUE
+        coord DEF Box004-COORD Coordinate { point [
+          -55.66 0 6.258, 80.44 0 6.258, -55.66 0 -6.258, 80.44 0 -6.258, 
+          -55.66 128.5 6.258, 80.44 128.5 6.258, -55.66 128.5 -6.258, 
+          80.44 128.5 -6.258]
+        }
+        coordIndex [
+          0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 0, 1, 5, -1, 
+          5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 3, 2, 6, -1, 
+          6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+        }
+    }
+  ]
+}
+ROUTE TS1.touchTime	TO phim.startTime
+ROUTE TS1.touchTime	TO phim.stopTime

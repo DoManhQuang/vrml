@@ -1,0 +1,1832 @@
+#VRML V2.0 utf8
+
+# Produced by 3D Studio MAX VRML97 exporter, Version 22, Revision 7.57
+# MAX File: FASHION.max, Date: Mon Oct 28 20:08:34 2019
+
+DEF Group104 Transform {
+  translation -254.9 -24.37 442.5
+  rotation 0 -1 0 -3.142
+  children [
+  DEF Group104-TIMER TimeSensor { loop TRUE cycleInterval 3.333 },
+    DEF Group090 Transform {
+      translation -3.052e-05 0 216.3
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box454 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box455 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box456 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box456-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box456-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box457 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box458 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box458-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box458-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box459 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group091 Transform {
+      translation -1.526e-05 0 182.9
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box460 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box461 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box462 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box462-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box462-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box463 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box464 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box464-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box464-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box465 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group092 Transform {
+      translation -3.052e-05 0 149.5
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box466 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box467 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box468 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box468-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box468-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box469 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box470 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box470-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box470-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box471 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group093 Transform {
+      translation -3.052e-05 0 116
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box472 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box473 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box474 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box474-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box474-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box475 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box476 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box476-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box476-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box477 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group094 Transform {
+      translation -1.526e-05 0 82.61
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box478 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box479 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box480 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box480-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box480-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box481 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box482 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box482-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box482-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box483 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group095 Transform {
+      translation -3.052e-05 0 49.18
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box484 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box485 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box486 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box486-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box486-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box487 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box488 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box488-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box488-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box489 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group096 Transform {
+      translation -3.052e-05 0 15.75
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box490 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box491 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box492 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box492-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box492-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box493 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box494 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box494-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box494-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box495 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group097 Transform {
+      translation -1.526e-05 0 -17.69
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box496 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box497 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box498 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box498-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box498-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box499 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box500 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box500-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box500-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box501 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group098 Transform {
+      translation -3.052e-05 0 -51.12
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box502 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box503 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box504 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box504-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box504-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box505 Transform {
+          translation -0.1582 1.697 -0.1891
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box506 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box506-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box506-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box507 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group099 Transform {
+      translation -3.052e-05 0 -84.55
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box508 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box509 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box510 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box510-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box510-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box511 Transform {
+          translation -0.1582 1.697 -0.1892
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box512 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box512-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box512-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box513 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group100 Transform {
+      translation -1.526e-05 0 -118
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box514 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box515 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box516 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box516-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box516-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box517 Transform {
+          translation -0.1582 1.697 -0.1892
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box518 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box518-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box518-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box519 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group101 Transform {
+      translation -1.526e-05 0 -151.4
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box520 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box521 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box522 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box522-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box522-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box523 Transform {
+          translation -0.1582 1.697 -0.1892
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box524 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box524-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box524-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box525 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group102 Transform {
+      translation -3.052e-05 0 -183.9
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box526 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box527 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box528 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box528-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box528-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box529 Transform {
+          translation -0.1582 1.697 -0.1892
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box530 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box530-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box530-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box531 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    },
+    DEF Group103 Transform {
+      translation -1.526e-05 0 -216.3
+      scale 0.8004 0.8004 0.8004
+      children [
+        DEF Box532 Transform {
+          translation -16 -32.18 -14.25
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box533 Transform {
+          translation -16 -32.18 13.93
+          scale 1 1 1.215
+          children [
+              Transform {
+                translation 0 16.94 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 1 1 1
+                      }
+                    }
+                    geometry Box { size 3.587 33.88 2.591 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box534 Transform {
+          translation 15.7 -32.18 13.93
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box534-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box534-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box535 Transform {
+          translation -0.1582 1.697 -0.1892
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        },
+        DEF Box536 Transform {
+          translation 15.7 -32.18 -14.16
+          scale 1 1 1.215
+          children [
+            Shape {
+              appearance Appearance {
+                material Material {
+                  diffuseColor 1 1 1
+                }
+              }
+              geometry DEF Box536-FACES IndexedFaceSet {
+                ccw TRUE
+                solid TRUE
+                coord DEF Box536-COORD Coordinate { point [
+                  -1.794 0 1.295, 1.794 0 1.295, -1.794 0 -1.295, 
+                  1.794 0 -1.295, -1.794 63.38 1.295, 1.794 63.38 1.295, 
+                  -1.794 63.38 -1.295, 1.794 63.38 -1.295]
+                }
+                coordIndex [
+                  0, 2, 3, -1, 3, 1, 0, -1, 4, 5, 7, -1, 7, 6, 4, -1, 
+                  0, 1, 5, -1, 5, 4, 0, -1, 1, 3, 7, -1, 7, 5, 1, -1, 
+                  3, 2, 6, -1, 6, 7, 3, -1, 2, 0, 4, -1, 4, 6, 2, -1]
+                }
+            }
+          ]
+        },
+        DEF Box537 Transform {
+          translation 13.63 22.58 0
+          rotation 0.5774 0.5774 0.5774 -2.094
+          scale 1 1.679 0.6138
+          children [
+              Transform {
+                translation 0 1.239 0
+                children [
+                  Shape {
+                    appearance Appearance {
+                      material Material {
+                        diffuseColor 0 0 0
+                      }
+                    }
+                    geometry Box { size 35.27 2.478 31.28 }
+                  }
+            ] }
+          ]
+        }
+      ]
+    }
+  ]
+}
